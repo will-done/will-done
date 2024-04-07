@@ -1,15 +1,11 @@
-- 👋 Hi, I’m @will-done
-- 👀 I’m interested in .net and web development...
-- 🌱 I’m currently learning data science and machine learning...
-- 📫 How to reach me vildanbozkurt393@gmail.com...
-
 
 <!---
 will-done/will-done is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm vildan</h1>
-<h3 align="center">I am intereseted in .net and sometimes web development</h3>
+<h3 align="center"> I am student at university</h3>
+- 👀 I’m interested in .net and web development...
 
 - 🌱 I’m currently learning data science **machine learning**
 
